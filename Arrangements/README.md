@@ -1,2 +1,2 @@
-#Arrangements
-Les remix, les arrangements ou d'autres adaptations des morceaux de musiques existants sont ici !
+# Arrangements
+Remixes, arrangements or other adaptations of existing musical works are published here !
