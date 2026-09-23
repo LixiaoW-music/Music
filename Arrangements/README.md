@@ -9,9 +9,15 @@ Most of my pdf files named according to the following convention: `{Optional:Com
 ## Instrument code list
 ### Woodwinds
 | Instrument | Code |
+| ---- | ---- |
 | Flute | F |
 | Oboe (Hautbois) | Hb |
 | Clarinet | Cl |
 | Basson | Bs |
 ### Brass
 | Instrument | Code |
+| ---- | ---- |
+| Trompet | Tp |
+| Horn | Ho |
+| Trombone | Tb |
+| Tuba | Tu |
