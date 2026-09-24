@@ -35,13 +35,17 @@ The list below is a working convention rather than an exhaustive catalogue. Addi
 | Horn | Ho |
 | Trombone | Tb |
 | Tuba | Tu |
-### Strings
+### Bowed Strings
 | Instrument | Code |
 | ---- | ---- |
-| Violin | V |
+| Violin | Vl |
+| Violin I + violin II | Vl12 |
 | Viola | Va |
 | Cello | Vc |
 | Bass | Cb |
+### Plucked Strings
+| Instrument | Code |
+| ---- | ---- |
 | Guitar (electric)| G(e) |
 | Ukulele | U |
 | Banjo | Bj |
@@ -60,3 +64,15 @@ The list below is a working convention rather than an exhaustive catalogue. Addi
 ### Keyboard
 | Instrument | Code |
 | ---- | ---- |
+| Piano | P |
+| Organ | O |
+| Accordeon | Ac |
+| Harpsichord | Hc |
+### Voices
+| Instrument | Code |
+| ---- | ---- |
+| One voice | V |
+| Two voices | V12 |
+| Three voices | V123 |
+| Four voices | V1234 |
+| $n \ge 5$ voices | V1-n |
