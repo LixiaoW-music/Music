@@ -2,7 +2,7 @@
 Remixes, arrangements or other adaptations of existing musical works are published here !
 
 ## File naming convention
-Most PDF scores are named following the convention `{Composer}_{Title}_{Instrument code}.pdf` where the composer and instrument code are optional. 
+Most PDF scores are named following the convention `{Composer}_{Title}_{InstrumentCode}.pdf` where the composer and instrument code are optional. 
 
 ### Composer
 `Composer` identifies the composer, performer, or other original creator associated with the work.
@@ -27,7 +27,7 @@ The list below is a working convention rather than an exhaustive catalogue. Addi
 | Flute | F |
 | Oboe (Hautbois) | Hb |
 | Clarinet | Cl |
-| Basson | Bs |
+| Bassoon | Bs |
 ### Brass
 | Instrument | Code |
 | ---- | ---- |
@@ -35,3 +35,28 @@ The list below is a working convention rather than an exhaustive catalogue. Addi
 | Horn | Ho |
 | Trombone | Tb |
 | Tuba | Tu |
+### Strings
+| Instrument | Code |
+| ---- | ---- |
+| Violin | V |
+| Viola | Va |
+| Cello | Vc |
+| Bass | Cb |
+| Guitar (electric)| G(e) |
+| Ukulele | U |
+| Banjo | Bj |
+| Harp | H |
+| Mandolin | Mn |
+### Percussion (keyboard excluded)
+| Instrument | Code |
+| ---- | ---- |
+| Timpani | Ti |
+| Xylophone | X |
+| Drum | D |
+| Cymbales | Cy |
+| Triangle | Tr |
+| Tambourine | Ta |
+| Maracas | Mr |
+### Keyboard
+| Instrument | Code |
+| ---- | ---- |
