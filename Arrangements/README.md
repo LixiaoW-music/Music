@@ -67,6 +67,7 @@ The list below is a working convention rather than an exhaustive catalogue. Addi
 | Piano | P |
 | Organ | O |
 | Accordeon | Ac |
+| Clavichord | Cc |
 | Harpsichord | Hc |
 ### Voices
 | Instrument | Code |
