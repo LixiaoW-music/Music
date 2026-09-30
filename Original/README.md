@@ -1,2 +1,76 @@
 # Original
 My original works in music are published here. Please note that the opus numbers allocation are not purely based on the chronology. 
+
+## File naming convention
+Most PDF scores are named following the convention `{Title}_{OpusNumber}_{InstrumentCode}.pdf` where the instrument code is optional. 
+
+### Title
+`Title` is the title of the composition.
+
+### Opus Number
+`OpusNumber` indicates the opus number, in the format `Op.xx`.
+
+### Instrument code
+`InstrumentCode` indicates the instruments used in the composition by concatenating the corresponding instrument abbreviations listed below.
+
+If the instrument code is omitted, the composition is assumed to be for **piano solo**.
+
+For compositions written for a full orchestra, or for an ensemble sufficiently close to one, `Orchestra` may be used instead of listing every instrument individually.
+
+## Instrument code list
+The list below is a working convention rather than an exhaustive catalogue. Additional instrument codes may be introduced as needed.
+### Woodwinds
+| Instrument | Code |
+| ---- | ---- |
+| Flute | F |
+| Oboe (Hautbois) | Hb |
+| Clarinet | Cl |
+| Bassoon | Bs |
+### Brass
+| Instrument | Code |
+| ---- | ---- |
+| Trompet | Tp |
+| Horn | Ho |
+| Trombone | Tb |
+| Tuba | Tu |
+### Bowed Strings
+| Instrument | Code |
+| ---- | ---- |
+| Violin | Vl |
+| Violin I + violin II | Vl12 |
+| Viola | Va |
+| Cello | Vc |
+| Bass | Cb |
+### Plucked Strings
+| Instrument | Code |
+| ---- | ---- |
+| Guitar (electric)| G(e) |
+| Ukulele | U |
+| Banjo | Bj |
+| Harp | H |
+| Mandolin | Mn |
+### Percussion (keyboard excluded)
+| Instrument | Code |
+| ---- | ---- |
+| Timpani | Ti |
+| Xylophone | X |
+| Drum | D |
+| Cymbales | Cy |
+| Triangle | Tr |
+| Tambourine | Ta |
+| Maracas | Mr |
+### Keyboard
+| Instrument | Code |
+| ---- | ---- |
+| Piano | P |
+| Organ | O |
+| Accordeon | Ac |
+| Clavichord | Cc |
+| Harpsichord | Hc |
+### Voices
+| Instrument | Code |
+| ---- | ---- |
+| One voice | V |
+| Two voices | V12 |
+| Three voices | V123 |
+| $n \ge 4$ voices | V1-n |
