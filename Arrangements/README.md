@@ -75,5 +75,4 @@ The list below is a working convention rather than an exhaustive catalogue. Addi
 | One voice | V |
 | Two voices | V12 |
 | Three voices | V123 |
-| Four voices | V1234 |
-| $n \ge 5$ voices | V1-n |
+| $n \ge 4$ voices | V1-n |
